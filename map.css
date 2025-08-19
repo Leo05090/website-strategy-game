@@ -1,0 +1,124 @@
+.desktop-5,
+.desktop-5 * {
+  box-sizing: border-box;
+}
+.desktop-5 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.image-3 {
+  width: 200px;
+  height: 133px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 200/133;
+}
+.image-12 {
+  width: 101px;
+  height: 67px;
+  position: absolute;
+  left: 513px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 101/67;
+}
+.image-13 {
+  width: 101px;
+  height: 66px;
+  position: absolute;
+  left: 513px;
+  top: 67px;
+  object-fit: cover;
+  aspect-ratio: 101/66;
+}
+._100-000 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 614px;
+  top: 87px;
+  width: 105px;
+  height: 25px;
+}
+._100-0002 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 614px;
+  top: 21px;
+  width: 105px;
+  height: 25px;
+}
+._100-0003 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 793px;
+  top: 87px;
+  width: 105px;
+  height: 25px;
+}
+._100-0004 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 793px;
+  top: 21px;
+  width: 105px;
+  height: 25px;
+}
+.image-14 {
+  width: 53px;
+  height: 67px;
+  position: absolute;
+  left: 719px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 53/67;
+}
+.image-15 {
+  width: 71px;
+  height: 66px;
+  position: absolute;
+  left: 710px;
+  top: 67px;
+  object-fit: cover;
+  aspect-ratio: 71/66;
+}
+.germany {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 200px;
+  top: 43px;
+  width: 207px;
+  height: 47px;
+}
+.image-11 {
+  width: 1440px;
+  height: 810px;
+  position: absolute;
+  left: -10px;
+  top: 133px;
+  object-fit: cover;
+  aspect-ratio: 16/9;
+}
