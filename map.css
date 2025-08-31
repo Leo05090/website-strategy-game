@@ -122,3 +122,22 @@
   object-fit: cover;
   aspect-ratio: 16/9;
 }
+.frame-2 {
+  background: #61c761;
+  width: 134px;
+  height: 54px;
+  position: absolute;
+  left: 1271px;
+  top: 13px;
+  overflow: hidden;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 22px;
+  top: 7px;
+}
