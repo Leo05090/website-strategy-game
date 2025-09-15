@@ -123,15 +123,26 @@
   aspect-ratio: 16/9;
 }
 .frame-2 {
-  background: #61c761;
-  width: 134px;
+  width: 1000px;
   height: 54px;
   position: absolute;
-  left: 1271px;
+  left: 1150px;
   top: 13px;
   overflow: hidden;
 }
 .home {
+  background: #61c761;
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 200px;
+  top: 7px;
+}
+.technology {
+  background: #61c761;
   color: #ffffff;
   text-align: left;
   font-family: "Inter-Regular", sans-serif;

@@ -237,3 +237,13 @@
   width: 183px;
   height: 58px;
 }
+.wwii-european-naval-battles {
+  color: #62d868;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: relative;
+  height: 67px;
+  margin: 30px 400px ;
+}
